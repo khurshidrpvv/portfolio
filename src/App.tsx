@@ -1,6 +1,6 @@
-import './style.css';
-import Logo from './images/React-logo.png';
-import SvgLogo from './images/react.svg';
+import "./style.css";
+import Logo from "./images/React-logo.png";
+import SvgLogo from "./images/react.svg";
 
 const App = () => {
 	return (
