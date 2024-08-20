@@ -1,6 +1,6 @@
 package.json
 package-lock.json
 yarn.lock
-build
+docs
 node_modules
 .eslintrc.js
